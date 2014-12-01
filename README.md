@@ -18,3 +18,7 @@ $ passanger start
 
 you can they access the app localy at:
 http://localhost:3000
+
+I have made a website for the company! I hope it helps. We could hopefully get the rails working so we could have people demo from this website. If by any chance the old domain name still exists we could use that but for now this is a great way to star and the site is already live. and below is the domain name. 
+
+         " perfectfithealth.wordpress.com "
